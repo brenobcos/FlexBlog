@@ -7,7 +7,7 @@ A página está totalmente responsiva, com poucos media queries pois a intençã
 a página pode proporcionar boa experiência nos principais navegadores em PC quanto em dispositivos com telas de tamanhos diversos.
 
 <h2>🔖 Layout</h2>
-Você pode visualizar o o website no seu navegador <a href="https://brenobcos.github.io/FlexBlog/" target="_blank">clicando aqui</a>
+Você pode visualizar o website no seu navegador <a href="https://brenobcos.github.io/FlexBlog/" target="_blank">clicando aqui</a>
 
 <h2>🧾Considerações finais</h2>
 Agradeço a <a href="https://www.origamid.com/">Origamid</a> por disponibilizar o curso de forma gratuita, ajuda bastante quem está iniciando.
